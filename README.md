@@ -1,10 +1,10 @@
-# Latex-Plantilla
-Plantilla para crear WriteUps sobre las máquinas que se realicen tanto en Hack The Box, como para otras plataformas.
+# Latex Template
+Template to create WriteUps on machines that are made both in Hack The Box, as well as for other platforms.
 
-Instalación:
-        git clone https://github.com/whosstranger/Latex-Plantilla.git
+Installation
+
+git clone https://github.com/whosstranger/Latex-Plantilla.git
         
-Cuando se te copie en tu dispositivo local, los abres con el editor de texto tanto online como local pero que acepte extensiones .tex, se debe abrir con toda la carpeta de imagenes para así evitar fallos.
-
+When copied to your local device, you open them with the text editor both online and local but that accepts .tex extensions, it must be opened with the entire image folder to avoid failures.
 
     
